@@ -52,8 +52,8 @@
     - [Flux Standard Action](https://github.com/acdlite/flux-standard-action)
     - [redux-architecture](https://github.com/jarvisaoieong/redux-architecture)
 - 综合
-    -[Awesome React](https://github.com/enaqx/awesome-react)
-    -[React/Redux Links](https://github.com/markerikson/react-redux-links)
+    - [Awesome React](https://github.com/enaqx/awesome-react)
+    - [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - 其他
-    -[React世界的函数式编程(Functional Programming)](https://zhuanlan.zhihu.com/p/26174525)
+    - [React世界的函数式编程(Functional Programming)](https://zhuanlan.zhihu.com/p/26174525)
     
