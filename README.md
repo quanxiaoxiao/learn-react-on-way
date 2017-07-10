@@ -1,0 +1,59 @@
+使用react有一段时间了,也看了一些关于react资料,我把那些觉得不错的资料整理下来,方便以后回顾和学习
+
+- basic
+    - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+- tips
+    - [react-bits](https://github.com/vasanthk/react-bits)
+    - [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+    - [React in patterns](https://github.com/krasimir/react-in-patterns)
+    - [用好React，你必须要知道的事情](http://www.jianshu.com/p/f4e98a29ebfa)
+- 项目集合
+    - [Real World React](https://github.com/jeromedalbert/real-world-react)
+    - [insomnia](https://github.com/getinsomnia/insomnia)
+    - [reactide](https://github.com/reactide/reactide)
+    - [cerebro](https://github.com/KELiON/cerebro)
+- 工具
+    - [create-component-app](https://github.com/CVarisco/create-component-app)
+    - [Create React App](https://github.com/facebookincubator/create-react-app)
+    - [Create Next App](https://github.com/segmentio/create-next-app)
+    - [haul](https://github.com/callstack-io/haul)
+- 实现原理
+    - [Under the hood: ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+    - [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
+    - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+- Higher Order
+    - [Understanding Higher Order Components](https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b)
+    - [Top 5 Recompose HOCs](https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566)
+- 项目结构
+    - [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38)
+    - [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1)
+    - [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
+- setState
+    - [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
+    - [setState：这个API设计到底怎么样](https://zhuanlan.zhihu.com/p/25954470)
+    - [setState为什么不会同步更新组件状态](https://zhuanlan.zhihu.com/p/25990883)
+    - [setState何时同步更新状态](https://zhuanlan.zhihu.com/p/26069727)
+- 按需加载(分割代码)
+    - [Introducing React Loadable](http://thejameskyle.com/react-loadable.html)
+    - [Straightforward code splitting with React and Webpack](https://hackernoon.com/straightforward-code-splitting-with-react-and-webpack-4b94c28f6c3f)
+- Component Container Element
+    - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+    - [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca)
+    - [React Elements VS React Components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- UI Cmponent
+    - [awesome-react-components](https://github.com/brillout/awesome-react-components)
+    - [Element React](https://github.com/eleme/element-react)
+    - [Ant Design](https://github.com/ant-design/ant-design)
+    - [Material-UI](https://github.com/callemall/material-ui)
+- 模板
+    - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+    - [React Redux Starter Kit](https://github.com/davezuko/react-redux-starter-kit)
+- redux
+    - [Flux Standard Action](https://github.com/acdlite/flux-standard-action)
+    - [redux-architecture](https://github.com/jarvisaoieong/redux-architecture)
+- 综合
+    -[Awesome React](https://github.com/enaqx/awesome-react)
+    -[React/Redux Links](https://github.com/markerikson/react-redux-links)
+- 其他
+    -[React世界的函数式编程(Functional Programming)](https://zhuanlan.zhihu.com/p/26174525)
+    
